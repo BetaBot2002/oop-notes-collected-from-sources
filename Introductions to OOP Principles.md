@@ -89,9 +89,4 @@ Composition is a restricted form of Aggregation in which two entities are highly
 **Inheritance represents IS-A relationship and Aggregation represents HAS-A relationship.**
 
 ### Sources:
-[Source 1](https://www.educative.io/blog/object-oriented-programming)
-[Source 2](https://www.javatpoint.com/what-is-object-oriented-programming)
-[Source 3](https://www.coursera.org/articles/encapsulation) 
-[Source 4](https://www.upgrad.com/blog/polymorphism-in-oops/)
-[Source 5](https://www.geeksforgeeks.org/association-composition-aggregation-java/)
-
+[Source 1](https://www.educative.io/blog/object-oriented-programming) [Source 2](https://www.javatpoint.com/what-is-object-oriented-programming) [Source 3](https://www.coursera.org/articles/encapsulation)  [Source 4](https://www.upgrad.com/blog/polymorphism-in-oops/) [Source 5](https://www.geeksforgeeks.org/association-composition-aggregation-java/)
