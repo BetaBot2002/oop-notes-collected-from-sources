@@ -5,4 +5,5 @@
 
 ## 1. Basic Concepts of Object‐Orientation
 ### 1.1 [Introduction to OOP Principles](./Introductions%20to%20OOP%20Principles.md)  [(Alt: Open PDF)](./PDF-Versions/Introductions%20to%20OOP%20Principles.pdf)
+### 1.2 [Object Model](./Object%20Model.md)  [(Alt: Open PDF)](./PDF-Versions/Object%20Model.pdf)
  
