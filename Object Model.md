@@ -33,19 +33,33 @@ What makes the object model important is how all these parts work together smoot
 ### *"Bricks"* or Elements of Object Model and their Applications:
 #### The Elements:
 1. **Abstraction**: Abstraction involves simplifying complex reality by modeling classes appropriate to the problem, hiding unnecessary details while highlighting essential features. This allows developers to focus on relevant aspects of a system.
+
 ![](Images/Pasted%20image%2020240408173134.png)
+
 2. **Encapsulation**: Encapsulation involves bundling the data (attributes) and methods (functions or procedures) that operate on the data into a single unit or class. This unit provides a controlled interface for interacting with the data, ensuring that the internal state of an object is protected and accessed only through well-defined methods.
+
 ![](Images/Pasted%20image%2020240408170353.png)
+
 3. **Modularity**: Modularity refers to the decomposition of a system into smaller, manageable, and reusable units or modules. Each module encapsulates a specific functionality, promoting code organization, maintainability, and reusability.
+
 ![](Images/Pasted%20image%2020240410021723.png)
+
 4. **Hierarchy**: Hierarchy establishes relationships between classes through inheritance, allowing the creation of specialized classes (subclasses) that inherit properties and behaviors from more general classes (superclasses). This hierarchical structure promotes code reuse, extensibility, and conceptual clarity.
+
 ![](Images/Pasted%20image%2020240408193205.png)
+
 5. **Typing**: Typing involves specifying the types of objects that can be manipulated within a system. Strong typing ensures type safety and helps prevent errors by enforcing constraints on the interactions between objects.
+
 ![](Images/Pasted%20image%2020240410022318.png)
+
 6. **Concurrency**: Concurrency enables multiple tasks or processes to execute simultaneously, enhancing system responsiveness and resource utilization. Object-oriented concurrency mechanisms facilitate the creation, coordination, and synchronization of concurrent activities within a system.
+
 ![](Images/Pasted%20image%2020240410022606.png)
+
 7. **Persistence**: Persistence involves the ability to store and retrieve object state from a persistent storage medium, such as a database or file system. Object-oriented persistence mechanisms enable objects to maintain their state across different sessions or executions, supporting data persistence and application state management.
-![](Images/Pasted%20image%2020240410023042.png)
+
+![](Images/Pasted%20image%2020240410121626.png)
+
 #### Their Applications:
 1. **Abstraction**:
    - **Application**: Abstraction allows developers to create models that capture essential aspects of a system while hiding unnecessary details. For example, in a banking application, a `BankAccount` class abstracts away the complexities of managing financial transactions, focusing on essential operations like deposits, withdrawals, and balance inquiries.
